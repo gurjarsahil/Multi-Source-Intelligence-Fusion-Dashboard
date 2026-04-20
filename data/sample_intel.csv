@@ -1,0 +1,11 @@
+source,type,latitude,longitude,description,severity,timestamp
+FIELD-001,HUMINT,28.6139,77.2090,Armed suspects spotted near Delhi market area,high,2026-04-20T08:00:00
+FIELD-002,SIGINT,28.6200,77.2150,Encrypted radio traffic intercepted in residential zone,medium,2026-04-20T09:30:00
+FIELD-003,OSINT,28.6180,77.2100,Social media posts indicate planned protest near parliament,medium,2026-04-20T10:00:00
+FIELD-004,CYBINT,28.6155,77.2080,Cyber intrusion attempt detected on power grid systems,critical,2026-04-20T11:15:00
+FIELD-005,HUMINT,28.6170,77.2120,Informant reports smuggling operation at railway station,high,2026-04-20T12:00:00
+FIELD-006,GEOINT,28.7000,77.1500,Satellite imagery shows new construction near border,low,2026-04-20T07:00:00
+FIELD-007,OSINT,28.5500,77.3000,News report of routine military exercise in area,low,2026-04-20T06:00:00
+FIELD-008,SIGINT,48.8566,2.3522,Unusual communication patterns detected in Paris,high,2026-04-20T13:00:00
+FIELD-009,HUMINT,51.5074,-0.1278,Suspicious package reported near London bridge,critical,2026-04-20T14:00:00
+FIELD-010,CYBINT,40.4168,-3.7038,Malware attack on Madrid banking infrastructure,high,2026-04-20T15:00:00
